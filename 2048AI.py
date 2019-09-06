@@ -50,7 +50,7 @@ model.save("2048(1).h5")
 
 InitGames = 1000
 training_data = []
-scoreReq = 3000
+scoreReq = 0
 scores = []
 accepted_scores = []
 
